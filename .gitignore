@@ -1,0 +1,25 @@
+# IDE folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials (never commit these)
+.env
+.env.local
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
